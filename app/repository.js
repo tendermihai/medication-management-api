@@ -13,3 +13,17 @@ export function getMedication() {
     });
   });
 }
+
+export async function getSortMedication(field) {
+  let medications = await getMedication();
+  for (let i = 0; i < medications.length; i++) {
+    for (let j = 0; j < medications.length; j++) {
+      if (medications[i][field] > medications[j][field]) {
+        let aux = medications[i];
+        medications[i] = medications[j];
+        medications[j] = aux;
+      }
+    }
+  }
+  return medications;
+}
