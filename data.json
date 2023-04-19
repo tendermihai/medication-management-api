@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "company": "Cardinal Health",
+    "brand_name": "Leader 8 Hour Pain Reliever",
+    "generic_name": "Acetaminophen",
+    "diagnosis_code": "T22399A",
+    "nhs_number": "7578316443"
+  },
+  {
+    "id": 2,
+    "company": "Preferred Pharmaceuticals, Inc",
+    "brand_name": "Betamethasone Dipropionate",
+    "generic_name": "Betamethasone Dipropionate",
+    "diagnosis_code": "I82433",
+    "nhs_number": "7739445436"
+  },
+  {
+    "id": 3,
+    "company": "Sun & Skin Care Research, LLC",
+    "brand_name": "OP Dark Formula Xtreme Tanning 4",
+    "generic_name": "octinoxate, octisalate",
+    "diagnosis_code": "V352",
+    "nhs_number": "8401883776"
+  },
+  {
+    "id": 4,
+    "company": "Apotheca Company",
+    "brand_name": "Colosode",
+    "generic_name": "Taraxacum officinale, Berberis vulgaris, Rhamnus purshiana, Rheum, Cina, Arsenicum album, Aloe socotrina, Colostrum, Gallbladder, Hepar bovinum,",
+    "diagnosis_code": "T46906D",
+    "nhs_number": "7895275542"
+  },
+  {
+    "id": 5,
+    "company": "Onset Dermatologics, LLC",
+    "brand_name": "Minocin",
+    "generic_name": "MINOCYCLINE HYDROCHLORIDE",
+    "diagnosis_code": "S97122D",
+    "nhs_number": "2383968374"
+  },
+  {
+    "id": 6,
+    "company": "Topco Associates LLC",
+    "brand_name": "Topcare pain relief",
+    "generic_name": "Acetaminophen",
+    "diagnosis_code": "Q939",
+    "nhs_number": "0839124759"
+  },
+  {
+    "id": 7,
+    "company": "GlaxoSmithKline LLC",
+    "brand_name": "PROMACTA",
+    "generic_name": "eltrombopag olamine",
+    "diagnosis_code": "S62601",
+    "nhs_number": "0030857929"
+  },
+  {
+    "id": 8,
+    "company": "Cintas Corp",
+    "brand_name": "Antibacterial Spray",
+    "generic_name": "Triclosan",
+    "diagnosis_code": "S37041A",
+    "nhs_number": "6854991781"
+  },
+  {
+    "id": 9,
+    "company": "Safeway Inc.",
+    "brand_name": "Hand Sanitizer",
+    "generic_name": "Alcohol",
+    "diagnosis_code": "S46019D",
+    "nhs_number": "1627300228"
+  },
+  {
+    "id": 10,
+    "company": "Dolgencorp, LLC",
+    "brand_name": "Dollar General Gold",
+    "generic_name": "Triclocarban",
+    "diagnosis_code": "M84757P",
+    "nhs_number": "4988850757"
+  },
+  {
+    "id": 11,
+    "company": "Procter and Gamble Manufacturing Company",
+    "brand_name": "Old Spice Game Day",
+    "generic_name": "Aluminum Zirconium Trichlorohydrex Gly",
+    "diagnosis_code": "S93499",
+    "nhs_number": "8692580074"
+  },
+  {
+    "id": 12,
+    "company": "Kremers Urban Pharmaceuticals Inc.",
+    "brand_name": "Atorvastatin Calcium",
+    "generic_name": "Atorvastatin Calcium",
+    "diagnosis_code": "S59042P",
+    "nhs_number": "0871621193"
+  },
+  {
+    "id": 13,
+    "company": "Lukare Medical, LLC",
+    "brand_name": "Elliotts B",
+    "generic_name": "sodium cation, sodium bicarbonate, anhydrous dextrose, magnesium sulfate, potassium chloride, calcium chloride, sodium phosphate",
+    "diagnosis_code": "T85860",
+    "nhs_number": "1347173676"
+  },
+  {
+    "id": 14,
+    "company": "Par Pharmaceutical Inc.",
+    "brand_name": "Candesartan cilexetil",
+    "generic_name": "Candesartan cilexetil",
+    "diagnosis_code": "S7690",
+    "nhs_number": "4205285140"
+  },
+  {
+    "id": 15,
+    "company": "Watson Laboratories, Inc.",
+    "brand_name": "Loxapine",
+    "generic_name": "Loxapine",
+    "diagnosis_code": "S61342A",
+    "nhs_number": "1200828208"
+  },
+  {
+    "id": 16,
+    "company": "Watson Laboratories, Inc.",
+    "brand_name": "Lorazepam",
+    "generic_name": "Lorazepam",
+    "diagnosis_code": "S343XXS",
+    "nhs_number": "1431446351"
+  },
+  {
+    "id": 17,
+    "company": "Aidarex Pharmaceuticals LLC",
+    "brand_name": "Oxcarbazepine",
+    "generic_name": "Oxcarbazepine",
+    "diagnosis_code": "V9112XD",
+    "nhs_number": "7827401562"
+  },
+  {
+    "id": 18,
+    "company": "Topco Associates LLC",
+    "brand_name": "topcare headache formula",
+    "generic_name": "Acetaminophen, Aspirin, Caffeine",
+    "diagnosis_code": "M71822",
+    "nhs_number": "2499148764"
+  },
+  {
+    "id": 19,
+    "company": "Laboratoires Clarins S.A.",
+    "brand_name": "CLARINS BROAD SPECTRUM SPF 15 SUNSCREEN DELECTABLE SELF TANNING MOUSSE",
+    "generic_name": "AVOBENZONE, OCTISALATE, OCTINOXATE, OCTOCRYLENE",
+    "diagnosis_code": "S52256R",
+    "nhs_number": "9020265202"
+  },
+  {
+    "id": 20,
+    "company": "Mylan Institutional LLC",
+    "brand_name": "Sotradecol",
+    "generic_name": "tetradecyl hydrogen sulfate (ester)",
+    "diagnosis_code": "T39015S",
+    "nhs_number": "6885352691"
+  },
+  {
+    "id": 21,
+    "company": "WG Critical Care, LLC",
+    "brand_name": "Ampicillin and Sulbactam",
+    "generic_name": "Ampicillin and Sulbactam",
+    "diagnosis_code": "S32012D",
+    "nhs_number": "8598253464"
+  },
+  {
+    "id": 22,
+    "company": "Unit Dose Services",
+    "brand_name": "lisinopril",
+    "generic_name": "lisinopril",
+    "diagnosis_code": "T22319A",
+    "nhs_number": "8897004512"
+  },
+  {
+    "id": 23,
+    "company": "Aidance Skincare & Topical Solutions, LLC",
+    "brand_name": "Terrasil Molluscum Treatment",
+    "generic_name": "Thuja Occidentalis",
+    "diagnosis_code": "T2367",
+    "nhs_number": "4412257509"
+  },
+  {
+    "id": 24,
+    "company": "Bausch & Lomb Incorporated",
+    "brand_name": "Neomycin Polymyxin B Sulfates and Dexamethasone",
+    "generic_name": "Neomycin sulfate, Polymyxin B Sulfate and Dexamethasone",
+    "diagnosis_code": "W888",
+    "nhs_number": "1275484018"
+  },
+  {
+    "id": 25,
+    "company": "Essential Isotopes LLC",
+    "brand_name": "Fludeoxyglucose F18",
+    "generic_name": "Fludeoxyglucose F18",
+    "diagnosis_code": "S89202K",
+    "nhs_number": "5646997518"
+  },
+  {
+    "id": 26,
+    "company": "Cardinal Health",
+    "brand_name": "Bumetanide",
+    "generic_name": "Bumetanide",
+    "diagnosis_code": "S37591",
+    "nhs_number": "6998631731"
+  },
+  {
+    "id": 27,
+    "company": "Med-Health Pharma, LLC",
+    "brand_name": "Fluoxetine",
+    "generic_name": "Fluoxetine Hydrochloride",
+    "diagnosis_code": "D487",
+    "nhs_number": "8454927298"
+  },
+  {
+    "id": 28,
+    "company": "CONOPCO Inc. d/b/a Unilever",
+    "brand_name": "Simple",
+    "generic_name": "AVOBENZONE, ENSULIZOLE, OCTICSALATE, OCTOCRYLENE",
+    "diagnosis_code": "M6721",
+    "nhs_number": "3099279900"
+  },
+  {
+    "id": 29,
+    "company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+    "brand_name": "VENTOLIN",
+    "generic_name": "albuterol sulfate",
+    "diagnosis_code": "M1A4191",
+    "nhs_number": "6607464920"
+  },
+  {
+    "id": 30,
+    "company": "Natural Health Supply",
+    "brand_name": "Skin Rash Acne",
+    "generic_name": "AILANTHUS ALTISSIMA FLOWERING TWIG",
+    "diagnosis_code": "V9610XA",
+    "nhs_number": "4390411098"
+  },
+  {
+    "id": 31,
+    "company": "Premiere Enterprises",
+    "brand_name": "Analgesic",
+    "generic_name": "menthol",
+    "diagnosis_code": "M267",
+    "nhs_number": "0161578810"
+  },
+  {
+    "id": 32,
+    "company": "Bryant Ranch Prepack",
+    "brand_name": "Ibuprofen",
+    "generic_name": "Ibuprofen",
+    "diagnosis_code": "V9422",
+    "nhs_number": "2551650348"
+  },
+  {
+    "id": 33,
+    "company": "Uriel Pharmacy Inc.",
+    "brand_name": "Cactus Cinis Avenae Special Order",
+    "generic_name": "Cactus Cinis Avenae Special Order",
+    "diagnosis_code": "T8322XS",
+    "nhs_number": "1705307957"
+  },
+  {
+    "id": 34,
+    "company": "REMEDYREPACK INC.",
+    "brand_name": "Clonazepam",
+    "generic_name": "clonazepam",
+    "diagnosis_code": "O6013",
+    "nhs_number": "5026488692"
+  },
+  {
+    "id": 35,
+    "company": "PUREMEDY",
+    "brand_name": "WART FREE",
+    "generic_name": "SAMBUCUS NIGRA FLOWER ECHINACEA ANGUSTIFOLIA CALENDULA OFFICINALIS FLOWER PINE NEEDLE OIL (PINUS SYLVESTRIS) THUJA OCCIDENTALIS WHOLE",
+    "diagnosis_code": "M61062",
+    "nhs_number": "0573487715"
+  },
+  {
+    "id": 36,
+    "company": "Merix Pharmaceutical Corp.",
+    "brand_name": "Throat-Releev (Honey and Lemon)",
+    "generic_name": "Benzalkonium Chloride",
+    "diagnosis_code": "O46099",
+    "nhs_number": "5407297647"
+  },
+  {
+    "id": 37,
+    "company": "Liberty Pharmaceuticals, Inc.",
+    "brand_name": "Doxycyclate Hyclate",
+    "generic_name": "Doxycycline Hyclate",
+    "diagnosis_code": "G9589",
+    "nhs_number": "4681670693"
+  },
+  {
+    "id": 38,
+    "company": "Uriel Pharmacy Inc.",
+    "brand_name": "Ferrum sidereum Pancreas 10/4",
+    "generic_name": "Ferrum sidereum Pancreas 10/4",
+    "diagnosis_code": "S92034S",
+    "nhs_number": "7745026636"
+  },
+  {
+    "id": 39,
+    "company": "REMEDYREPACK INC.",
+    "brand_name": "Keppra",
+    "generic_name": "levetiracetam",
+    "diagnosis_code": "S85172S",
+    "nhs_number": "6391939500"
+  },
+  {
+    "id": 40,
+    "company": "Parfums Christian Dior",
+    "brand_name": "DiorSkin Nude 070 Dark Brown",
+    "generic_name": "TITANIUM DIOXIDE, OCTINOXATE",
+    "diagnosis_code": "T42",
+    "nhs_number": "4025518112"
+  },
+  {
+    "id": 41,
+    "company": "Valu Merchandisers Co",
+    "brand_name": "Dandruff",
+    "generic_name": "Pyrithione zinc",
+    "diagnosis_code": "S8690",
+    "nhs_number": "5343598773"
+  },
+  {
+    "id": 42,
+    "company": "Unit Dose Services",
+    "brand_name": "Warfarin Sodium",
+    "generic_name": "Warfarin Sodium",
+    "diagnosis_code": "S75992",
+    "nhs_number": "4534596189"
+  },
+  {
+    "id": 43,
+    "company": "HOMEOLAB USA INC",
+    "brand_name": "GELSEMIUM SEMPERVIRENS",
+    "generic_name": "GELSEMIUM SEMPERVIRENS",
+    "diagnosis_code": "S72113K",
+    "nhs_number": "6902911622"
+  },
+  {
+    "id": 44,
+    "company": "Janssen Pharmaceuticals, Inc.",
+    "brand_name": "Ortho Cyclen",
+    "generic_name": "norgestimate and ethinyl estradiol",
+    "diagnosis_code": "S409",
+    "nhs_number": "6047854826"
+  },
+  {
+    "id": 45,
+    "company": "THEFACESHOP CO., LTD",
+    "brand_name": "FACE IT RADIANCE POWDER PACT SPF25 MOISTURE VEIL NB17",
+    "generic_name": "OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",
+    "diagnosis_code": "T63793S",
+    "nhs_number": "2551061792"
+  },
+  {
+    "id": 46,
+    "company": "Western Family Foods Inc",
+    "brand_name": "Western Family",
+    "generic_name": "Bacitracin zinc, Neomycin sulfate, Polymyxin B sulfate, and Pramoxine hydrochloride",
+    "diagnosis_code": "S32471G",
+    "nhs_number": "8052955637"
+  },
+  {
+    "id": 47,
+    "company": "CVS Pharmacy",
+    "brand_name": "aspirin",
+    "generic_name": "Aspirin",
+    "diagnosis_code": "S40921",
+    "nhs_number": "2318969787"
+  },
+  {
+    "id": 48,
+    "company": "Sandoz Inc",
+    "brand_name": "Tacrolimus",
+    "generic_name": "Tacrolimus",
+    "diagnosis_code": "S52226P",
+    "nhs_number": "6844234325"
+  },
+  {
+    "id": 49,
+    "company": "Perrigo New York Inc",
+    "brand_name": "calcitriol",
+    "generic_name": "calcitriol",
+    "diagnosis_code": "V5910XS",
+    "nhs_number": "4297479494"
+  },
+  {
+    "id": 50,
+    "company": "Bryant Ranch Prepack",
+    "brand_name": "HYZAAR",
+    "generic_name": "losartan potassium and hydrochlorothiazide",
+    "diagnosis_code": "O4100X3",
+    "nhs_number": "6071072263"
+  },
+  {
+    "id": 51,
+    "company": "ALK-Abello, Inc.",
+    "brand_name": "BETULA LENTA POLLEN",
+    "generic_name": "Birch White",
+    "diagnosis_code": "S62334P",
+    "nhs_number": "4630397051"
+  },
+  {
+    "id": 52,
+    "company": "REMEDYREPACK INC.",
+    "brand_name": "Olanzapine",
+    "generic_name": "Olanzapine",
+    "diagnosis_code": "H18629",
+    "nhs_number": "7506076756"
+  },
+  {
+    "id": 53,
+    "company": "State of Florida DOH Central Pharmacy",
+    "brand_name": "Simvastatin",
+    "generic_name": "Simvastatin",
+    "diagnosis_code": "O365113",
+    "nhs_number": "4291311656"
+  },
+  {
+    "id": 54,
+    "company": "Llorens Pharmaceutical International Division",
+    "brand_name": "Tusnel",
+    "generic_name": "Codeine Phosphate, Guiafenesin, Pseudoephedrine HCl",
+    "diagnosis_code": "S82452N",
+    "nhs_number": "6899971593"
+  },
+  {
+    "id": 55,
+    "company": "ENCHANTE ACCESSORIES INC.",
+    "brand_name": "RUE21 Doughnut Sprinkles Antibacterial Hand Sanitizer",
+    "generic_name": "ALCOHOL",
+    "diagnosis_code": "D0582",
+    "nhs_number": "5164913992"
+  },
+  {
+    "id": 56,
+    "company": "KAS Direct LLC dba BabyGanics",
+    "brand_name": "BabyGanics Bye, Bye Dry Eczema",
+    "generic_name": "OATMEAL",
+    "diagnosis_code": "S36439S",
+    "nhs_number": "5164843250"
+  },
+  {
+    "id": 57,
+    "company": "ENERGIZER PERSONAL CARE LLC",
+    "brand_name": "Hawaiian Tropic",
+    "generic_name": "AVOBENZONE,OCTISALATE,OCTOCRYLENE",
+    "diagnosis_code": "B2790",
+    "nhs_number": "2304616259"
+  },
+  {
+    "id": 58,
+    "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+    "brand_name": "Metformin Hydrochloride",
+    "generic_name": "Metformin Hydrochloride",
+    "diagnosis_code": "T2119",
+    "nhs_number": "8981694028"
+  },
+  {
+    "id": 59,
+    "company": "Pfizer Laboratories Div Pfizer Inc",
+    "brand_name": "Zithromax",
+    "generic_name": "azithromycin dihydrate",
+    "diagnosis_code": "S92254S",
+    "nhs_number": "8192688046"
+  },
+  {
+    "id": 60,
+    "company": "Sagent Pharmaceuticals",
+    "brand_name": "Nafcillin",
+    "generic_name": "nafcillin sodium",
+    "diagnosis_code": "S14159A",
+    "nhs_number": "2063790302"
+  },
+  {
+    "id": 61,
+    "company": "REMEDYREPACK INC.",
+    "brand_name": "Carvedilol",
+    "generic_name": "Carvedilol",
+    "diagnosis_code": "V304XXS",
+    "nhs_number": "4784442618"
+  },
+  {
+    "id": 62,
+    "company": "L.N.K. International, Inc.",
+    "brand_name": "Extra Strength Pain Reliever PM",
+    "generic_name": "Acetaminophen and Diphenhydramine HCl",
+    "diagnosis_code": "M7611",
+    "nhs_number": "1331198488"
+  },
+  {
+    "id": 63,
+    "company": "BrandStorm HBC",
+    "brand_name": "Staphysagria",
+    "generic_name": "DELPHINIUM STAPHISAGRIA SEED",
+    "diagnosis_code": "R3989",
+    "nhs_number": "5894216885"
+  },
+  {
+    "id": 64,
+    "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+    "brand_name": "Lovastatin",
+    "generic_name": "Lovastatin",
+    "diagnosis_code": "V737XXS",
+    "nhs_number": "3989618458"
+  },
+  {
+    "id": 65,
+    "company": "Golden State Medical Supply, Inc.",
+    "brand_name": "Carbamazepine",
+    "generic_name": "Carbamazepine",
+    "diagnosis_code": "V0600XS",
+    "nhs_number": "6256654277"
+  },
+  {
+    "id": 66,
+    "company": "A-S Medication Solutions LLC",
+    "brand_name": "CEFACLOR",
+    "generic_name": "CEFACLOR",
+    "diagnosis_code": "S89101G",
+    "nhs_number": "6223359071"
+  },
+  {
+    "id": 67,
+    "company": "Rebel Distributors Corp",
+    "brand_name": "Vivotif-B",
+    "generic_name": "Vivotif-B",
+    "diagnosis_code": "Y37331D",
+    "nhs_number": "4929972914"
+  },
+  {
+    "id": 68,
+    "company": "Antigen Laboratories, Inc.",
+    "brand_name": "Treatment Set TS329109",
+    "generic_name": "Treatment Set TS329109",
+    "diagnosis_code": "S52235P",
+    "nhs_number": "1588903419"
+  },
+  {
+    "id": 69,
+    "company": "Humco Holding Grou, Inc.",
+    "brand_name": "Humco Wintergreen Oil",
+    "generic_name": "Methyl Salicylate",
+    "diagnosis_code": "M84361A",
+    "nhs_number": "7776032093"
+  },
+  {
+    "id": 70,
+    "company": "Mylan Pharmaceuticals Inc.",
+    "brand_name": "Clonazepam",
+    "generic_name": "clonazepam",
+    "diagnosis_code": "S61021D",
+    "nhs_number": "0448588102"
+  },
+  {
+    "id": 71,
+    "company": "ART COSMETICS SRL",
+    "brand_name": "MANGO BUTTER LIPSTICK",
+    "generic_name": "Avobenzone and Octinoxate",
+    "diagnosis_code": "M80831D",
+    "nhs_number": "1975257766"
+  },
+  {
+    "id": 72,
+    "company": "State of Florida DOH Central Pharmacy",
+    "brand_name": "ZERIT",
+    "generic_name": "stavudine",
+    "diagnosis_code": "T457X5A",
+    "nhs_number": "6015379103"
+  },
+  {
+    "id": 73,
+    "company": "REMEDYREPACK INC.",
+    "brand_name": "BuPROPion Hydrochloride",
+    "generic_name": "BuPROPion Hydrochloride",
+    "diagnosis_code": "C714",
+    "nhs_number": "5191847253"
+  },
+  {
+    "id": 74,
+    "company": "ENCHANTE ACCESSORIES INC.",
+    "brand_name": "Susan Winget Mango Orange Hand Sanitizer",
+    "generic_name": "ALCOHOL",
+    "diagnosis_code": "I69021",
+    "nhs_number": "8528012743"
+  },
+  {
+    "id": 75,
+    "company": "H.J. Harkins Company, Inc.",
+    "brand_name": "VIRACEPT",
+    "generic_name": "nelfinavir mesylate",
+    "diagnosis_code": "F502",
+    "nhs_number": "7310825683"
+  },
+  {
+    "id": 76,
+    "company": "Pharmacia and Upjohn Company",
+    "brand_name": "SOMAVERT",
+    "generic_name": "pegvisomant",
+    "diagnosis_code": "O0383",
+    "nhs_number": "0391813285"
+  },
+  {
+    "id": 77,
+    "company": "Newton Laboratories, Inc.",
+    "brand_name": "Bangs Scrapes",
+    "generic_name": "Aconitum nap., Arnica, Bellis, Calendula, Echinacea, Gelsemium, Hamamelis, Hypericum, Ledum, Phosphorus, Rhus toxicodendron, Ruta, Staphysag., Symphytum, Hydrastis",
+    "diagnosis_code": "M84351K",
+    "nhs_number": "8778164400"
+  },
+  {
+    "id": 78,
+    "company": "Hyland's",
+    "brand_name": "SULPHUR",
+    "generic_name": "SULFUR",
+    "diagnosis_code": "V9542XA",
+    "nhs_number": "1985116952"
+  },
+  {
+    "id": 79,
+    "company": "McKesson",
+    "brand_name": "Sunmark muscle rub",
+    "generic_name": "Camphor, Menthol, Methyl Salicylate",
+    "diagnosis_code": "H2127",
+    "nhs_number": "4101619468"
+  },
+  {
+    "id": 80,
+    "company": "Clinical Solutions Wholesale",
+    "brand_name": "Haloperidol",
+    "generic_name": "Haloperidol",
+    "diagnosis_code": "H18033",
+    "nhs_number": "0269448683"
+  },
+  {
+    "id": 81,
+    "company": "Newton Laboratories, Inc.",
+    "brand_name": "Pain Soother",
+    "generic_name": "Aconitum nap., Arg. nit., Arnica, Bryonia, Colchicum, Guaiacum, Hypericum, Kalmia, Phosphorus, Phytolacca, Pulsatilla, Rhus toxicodendron, Ruta, Sarcolacticum ac., Sticta, Stramonium, Hamamelis, Taraxacum,",
+    "diagnosis_code": "O039",
+    "nhs_number": "7413814390"
+  },
+  {
+    "id": 82,
+    "company": "Cephalon, Inc.",
+    "brand_name": "ACTIQ",
+    "generic_name": "fentanyl citrate",
+    "diagnosis_code": "S86901S",
+    "nhs_number": "5299710720"
+  },
+  {
+    "id": 83,
+    "company": "A-S Medication Solutions LLC",
+    "brand_name": "Alprazolam",
+    "generic_name": "alprazolam",
+    "diagnosis_code": "S59229P",
+    "nhs_number": "5965282982"
+  },
+  {
+    "id": 84,
+    "company": "SKINFOOD CO., LTD.",
+    "brand_name": "OMIJA WHITENING",
+    "generic_name": "DIMETHICONE",
+    "diagnosis_code": "S52562B",
+    "nhs_number": "3159228576"
+  },
+  {
+    "id": 85,
+    "company": "Nelco Laboratories, Inc.",
+    "brand_name": "Mexican Tea Pollen",
+    "generic_name": "Mexican Tea Pollen",
+    "diagnosis_code": "Z89231",
+    "nhs_number": "7718044335"
+  },
+  {
+    "id": 86,
+    "company": "Lantheus Medical Imaging, Inc.",
+    "brand_name": "NEUROLITE",
+    "generic_name": "Bicisate dihydrochloride",
+    "diagnosis_code": "L504",
+    "nhs_number": "9889408228"
+  },
+  {
+    "id": 87,
+    "company": "Professional Disposables International, Inc.",
+    "brand_name": "Sani-Hands",
+    "generic_name": "Alcohol",
+    "diagnosis_code": "S72125Q",
+    "nhs_number": "3605782035"
+  },
+  {
+    "id": 88,
+    "company": "Cardinal Health",
+    "brand_name": "Sodium Chloride",
+    "generic_name": "Sodium Chloride",
+    "diagnosis_code": "S0451XS",
+    "nhs_number": "9404164216"
+  },
+  {
+    "id": 89,
+    "company": "Watson Laboratories, Inc.",
+    "brand_name": "Verapamil Hydrochloride",
+    "generic_name": "Verapamil Hydrochloride",
+    "diagnosis_code": "V8182XD",
+    "nhs_number": "1985721961"
+  },
+  {
+    "id": 90,
+    "company": "Allergy Laboratories, Inc.",
+    "brand_name": "BAHIA GRASS POLLEN",
+    "generic_name": "paspalum notatum pollen",
+    "diagnosis_code": "Z4582",
+    "nhs_number": "3383986047"
+  },
+  {
+    "id": 91,
+    "company": "Stratus Pharmaceuticals, Inc",
+    "brand_name": "Urea",
+    "generic_name": "Urea",
+    "diagnosis_code": "T40605S",
+    "nhs_number": "0674579291"
+  },
+  {
+    "id": 92,
+    "company": "CVS",
+    "brand_name": "Tussin Cough Long Acting",
+    "generic_name": "DEXTROMETHORPHAN HYDROBROMIDE",
+    "diagnosis_code": "B743",
+    "nhs_number": "5265876626"
+  },
+  {
+    "id": 93,
+    "company": "American Health Packaging",
+    "brand_name": "Sertraline Hydrochloride",
+    "generic_name": "Sertraline Hydrochloride",
+    "diagnosis_code": "W109XXA",
+    "nhs_number": "4654127992"
+  },
+  {
+    "id": 94,
+    "company": "Sun & Skin Care Research, LLC",
+    "brand_name": "NO-AD Kids SPF50 Continuous Mist Sunscreen",
+    "generic_name": "avobenzone, homosalate, octisalate, oxybenzone, octocrylene",
+    "diagnosis_code": "S62115D",
+    "nhs_number": "6877992504"
+  },
+  {
+    "id": 95,
+    "company": "Aton Pharma, Inc.",
+    "brand_name": "Timoptic-XE",
+    "generic_name": "Timolol Maleate",
+    "diagnosis_code": "R222",
+    "nhs_number": "7617595611"
+  },
+  {
+    "id": 96,
+    "company": "Pharmadel LLC",
+    "brand_name": "SanaTos Severe Cold and Cough Nighttime",
+    "generic_name": "Acetaminophen, Diphenhydramine hydrochloride, and Phenylephrine hydrochloride",
+    "diagnosis_code": "T22051D",
+    "nhs_number": "1245690906"
+  },
+  {
+    "id": 97,
+    "company": "Uriel Pharmacy Inc.",
+    "brand_name": "Arnica Rosa",
+    "generic_name": "Arnica Rosa",
+    "diagnosis_code": "T43505S",
+    "nhs_number": "3958026370"
+  },
+  {
+    "id": 98,
+    "company": "Mckesson",
+    "brand_name": "health mart daytime",
+    "generic_name": "acetaminophen, dextromethorphan Hbr, Phenylephrine HCl",
+    "diagnosis_code": "L89224",
+    "nhs_number": "3037626623"
+  },
+  {
+    "id": 99,
+    "company": "American Sales Company",
+    "brand_name": "careone pain relief",
+    "generic_name": "acetaminophen",
+    "diagnosis_code": "T81526",
+    "nhs_number": "1617758337"
+  },
+  {
+    "id": 100,
+    "company": "NATURE REPUBLIC CO., LTD.",
+    "brand_name": "ORCHID SECRET BASE",
+    "generic_name": "TITANIUM DIOXIDE",
+    "diagnosis_code": "T366X5S",
+    "nhs_number": "9272988926"
+  }
+]
