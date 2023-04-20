@@ -1,4 +1,8 @@
-import { getMedication, getSortMedication } from "./repository.js";
+import {
+  getMedication,
+  getSortMedication,
+  getByCompany,
+} from "./repository.js";
 import express, { json, request, response } from "express";
 import cors from "cors";
 
@@ -13,9 +17,18 @@ app.get("/api/v1/medications/all", async (request, response) => {
   response.status(200).json(medications);
 });
 
-app.get("/api/v1/medications/sort:field", async (request, response) => {
+app.get("/api/v1/medications/sort/:field", async (request, response) => {
   let medications = await getSortMedication(request.params.field);
   response.status(200).json(medications);
+});
+
+app.get("/api/medications/find/company/:company", async (request, response) => {
+  let medication = await getByCompany(request.params.company);
+  if (medication !== null) {
+    response.status(200).json(medication);
+  } else {
+    response.status(400).json({ message: "Company is not in data base" });
+  }
 });
 
 app.listen(7070, () => {
