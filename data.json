@@ -1,21 +1,5 @@
 [
   {
-    "id": 1,
-    "company": "Cardinal Health",
-    "brand_name": "Leader 8 Hour Pain Reliever",
-    "generic_name": "Acetaminophen",
-    "diagnosis_code": "T22399A",
-    "nhs_number": "7578316443"
-  },
-  {
-    "id": 2,
-    "company": "Preferred Pharmaceuticals, Inc",
-    "brand_name": "Betamethasone Dipropionate",
-    "generic_name": "Betamethasone Dipropionate",
-    "diagnosis_code": "I82433",
-    "nhs_number": "7739445436"
-  },
-  {
     "id": 3,
     "company": "Sun & Skin Care Research, LLC",
     "brand_name": "OP Dark Formula Xtreme Tanning 4",
@@ -785,18 +769,10 @@
   },
   {
     "id": 99,
-    "company": "American Sales Company",
-    "brand_name": "careone pain relief",
-    "generic_name": "acetaminophen",
-    "diagnosis_code": "T81526",
+    "company": "Tender Medication",
+    "brand_name": "Altceva",
+    "generic_name": "ibuprofen",
+    "diagnosis_code": "T9999",
     "nhs_number": "1617758337"
-  },
-  {
-    "id": 100,
-    "company": "NATURE REPUBLIC CO., LTD.",
-    "brand_name": "ORCHID SECRET BASE",
-    "generic_name": "TITANIUM DIOXIDE",
-    "diagnosis_code": "T366X5S",
-    "nhs_number": "9272988926"
   }
 ]
